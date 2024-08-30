@@ -1,6 +1,6 @@
 # mandelbrot
 
-A simple rendering of the mandelbrot set which was adapted from the O'Reilly Programming to colourise the output using a VGA rainbow palette.
+A simple rendering of the mandelbrot set which was adapted from the O'Reilly Programming Rust book to colourise the output using a VGA rainbow palette.
 
 Example Input: 
 
